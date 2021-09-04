@@ -1,3 +1,9 @@
+/**
+ * Charles "Blake" Hudson
+ * Assignment 01: Password validation
+ * Due: 09/07/2021
+ */
+
 const validatePassword = require('./passwordvalidation'); //import the function
 const readline = require('readline');   //readline module for reading datastream
 
